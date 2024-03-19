@@ -1,0 +1,9 @@
++---+-------------------------------+--------+----------------+------------+-----------------------+
+|   |              VPN              | Custos | Funcionalidade | Velocidade | Política de Registros |
++---+-------------------------------+--------+----------------+------------+-----------------------+
+| 0 |          ExpressVPN           |  Alto  |   Excelente    | Excelente  |     Sem registros     |
+| 1 |            NordVPN            | Médio  |   Excelente    | Excelente  |     Sem registros     |
+| 2 |          CyberGhost           | Baixo  |      Boa       |    Boa     |   Alguns registros    |
+| 3 |           Surfshark           | Baixo  |   Excelente    |    Boa     |     Sem registros     |
+| 4 | Private Internet Access (PIA) | Médio  |      Boa       |    Boa     |     Sem registros     |
++---+-------------------------------+--------+----------------+------------+-----------------------+
