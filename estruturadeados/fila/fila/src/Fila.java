@@ -22,9 +22,12 @@ public class Fila<T> {
 
 	public void enfileirar(T elemento) {
 		Celula nova = new Celula(elemento);
-		
-		ultimo.setProximo(nova);
-		ultimo = nova;
+		if (this.tamanho == 0) {
+			primeiro = ultimo = nova;
+		} else {
+			ultimo.setProximo(nova);
+			ultimo = nova;
+		}
 		this.tamanho += 1;
 	}
 
